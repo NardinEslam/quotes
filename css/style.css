@@ -1,0 +1,15 @@
+p{
+    font-family: 'Times New Roman';
+}
+button{
+    font-family: Arial;
+    background-color: #0000FF;
+    font-size: 13px;
+}
+h1{
+    font-family: Impact;
+    font-size: 80px;
+}
+button:hover{
+    background-color: green;
+}
